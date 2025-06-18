@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+openai>=1.30.1
+gTTS>=2.5.1
+fpdf>=1.7.2
+deep-translator>=1.11.4
+SpeechRecognition>=3.10.1
